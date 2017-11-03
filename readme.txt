@@ -6,4 +6,3 @@ Creating a new branch is quick and simple.
 Li rui is a pig.
 Zheng is learning git.
 debug ok.
-test merge.
